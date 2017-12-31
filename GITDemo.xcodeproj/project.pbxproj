@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A368F8F1FF94DCC00724C0A /* RegistrationClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A368F8E1FF94DCC00724C0A /* RegistrationClass.swift */; };
 		9A59B2071FF9400E000C8470 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A59B2061FF9400E000C8470 /* AppDelegate.swift */; };
 		9A59B2091FF9400E000C8470 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A59B2081FF9400E000C8470 /* ViewController.swift */; };
 		9A59B20C1FF9400E000C8470 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A59B20A1FF9400E000C8470 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A368F8E1FF94DCC00724C0A /* RegistrationClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegistrationClass.swift; sourceTree = "<group>"; };
 		9A59B2031FF9400E000C8470 /* GITDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GITDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A59B2061FF9400E000C8470 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9A59B2081FF9400E000C8470 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				9A59B2121FF9400E000C8470 /* Info.plist */,
 				9A59B2181FF94695000C8470 /* SourceTreeDev1Class.swift */,
 				9A59B21A1FF9471F000C8470 /* SourceTreeDev1LoginClass.swift */,
+				9A368F8E1FF94DCC00724C0A /* RegistrationClass.swift */,
 			);
 			path = GITDemo;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A368F8F1FF94DCC00724C0A /* RegistrationClass.swift in Sources */,
 				9A59B2191FF94695000C8470 /* SourceTreeDev1Class.swift in Sources */,
 				9A59B21B1FF9471F000C8470 /* SourceTreeDev1LoginClass.swift in Sources */,
 				9A59B2091FF9400E000C8470 /* ViewController.swift in Sources */,
