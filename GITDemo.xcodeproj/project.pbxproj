@@ -13,6 +13,7 @@
 		9A59B20E1FF9400E000C8470 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A59B20D1FF9400E000C8470 /* Assets.xcassets */; };
 		9A59B2111FF9400E000C8470 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A59B20F1FF9400E000C8470 /* LaunchScreen.storyboard */; };
 		9A59B2191FF94695000C8470 /* SourceTreeDev1Class.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A59B2181FF94695000C8470 /* SourceTreeDev1Class.swift */; };
+		9A59B21B1FF9471F000C8470 /* SourceTreeDev1LoginClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A59B21A1FF9471F000C8470 /* SourceTreeDev1LoginClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9A59B2101FF9400E000C8470 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A59B2121FF9400E000C8470 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A59B2181FF94695000C8470 /* SourceTreeDev1Class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SourceTreeDev1Class.swift; sourceTree = "<group>"; };
+		9A59B21A1FF9471F000C8470 /* SourceTreeDev1LoginClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SourceTreeDev1LoginClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9A59B20F1FF9400E000C8470 /* LaunchScreen.storyboard */,
 				9A59B2121FF9400E000C8470 /* Info.plist */,
 				9A59B2181FF94695000C8470 /* SourceTreeDev1Class.swift */,
+				9A59B21A1FF9471F000C8470 /* SourceTreeDev1LoginClass.swift */,
 			);
 			path = GITDemo;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A59B2191FF94695000C8470 /* SourceTreeDev1Class.swift in Sources */,
+				9A59B21B1FF9471F000C8470 /* SourceTreeDev1LoginClass.swift in Sources */,
 				9A59B2091FF9400E000C8470 /* ViewController.swift in Sources */,
 				9A59B2071FF9400E000C8470 /* AppDelegate.swift in Sources */,
 			);
